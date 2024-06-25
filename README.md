@@ -33,9 +33,9 @@ let saldoDisponible = 1000;
 alert('¡Error! Preencha todos los campos');
 ```
 
-7.Declara una variable llamada mensajeDeError y asígnale el valor "¡Error! Preencha todos los campos." Ahora muestra una alerta con el valor de la variable mensajeDeError.
+7.Declara una variable llamada mensajeDeError y asígnale el valor "¡Error! Completa todos los campos." Ahora muestra una alerta con el valor de la variable mensajeDeError.
 ```javascript
-let mensajeDeError = '¡Error! Preencha todos los campos';
+let mensajeDeError = '¡Error! Completa todos los campos';
 alert(mensajeDeError);
 ```
 
